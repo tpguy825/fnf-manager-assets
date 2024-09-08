@@ -14,7 +14,7 @@
 	"id": "01BXAVRG61YJ5YSBRM51702F6M",
 	"images": {
 		"icon": "https://raw.githubusercontent.com/tauri-apps/tauri/dev/crates/tauri-cli/templates/plugin/__example-api/tauri-app/public/tauri.svg",
-		"banner": "/peopledontevensayblessyouanymoretheyjuststareatyoulikethis.png"
+		"banner": "https://raw.githubusercontent.com/tpguy825/fnf-manager/main/public/peopledontevensayblessyouanymoretheyjuststareatyoulikethis.png"
 	},
 	"authors": [
 		{
