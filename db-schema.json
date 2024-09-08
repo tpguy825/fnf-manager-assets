@@ -4,6 +4,9 @@
     "DBSchema": {
       "type": "object",
       "properties": {
+        "$schema": {
+          "type": "string"
+        },
         "projects": {
           "type": "array",
           "items": {

@@ -1,13 +1,16 @@
 {
+	"$schema": "./db-schema.json",
 	"projects": [
 		{
 			"name": "Example",
 			"subtitle": "hehe im a little text",
-			"description": "long blah blah jabber",
+			"description": "long blah blah jabber fdgdf gfdgdfg df ghdfhdghdghgdd",
 			"versions": [
 				{
 					"v": "1.0",
-					"download": "file:///home/toby/fnf-manager/bum.gz"
+					"download": "file:///home/toby/fnf-manager/bum.gz",
+					"changes": "[empty]",
+					"modified": "2024-09-08T00:07:42.572Z"
 				}
 			],
 			"id": "01BXAVRG61YJ5YSBRM51702F6M",
@@ -16,5 +19,7 @@
 				"banner": "file:///home/toby/fnf-manager/public/peopledontevensayblessyouanymoretheyjuststareatyoulikethis.png"
 			}
 		}
-	]
+	],
+	"updated": "2024-09-08T00:07:42.572Z"
 }
+
