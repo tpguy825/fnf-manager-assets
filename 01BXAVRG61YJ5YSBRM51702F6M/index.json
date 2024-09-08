@@ -1,0 +1,31 @@
+{
+	"$schema": "../project-schema.json",
+	"name": "Example",
+	"subtitle": "hehe im a little text",
+	"description": "long blah blah jabber fdgdf gfdgdfg df ghdfhdghdghgdd",
+	"versions": [
+		{
+			"v": "1.0",
+			"download": "file:///home/toby/fnf-manager/bum.gz",
+			"changes": "[empty]",
+			"modified": "2024-09-08T00:07:42.572Z"
+		}
+	],
+	"id": "01BXAVRG61YJ5YSBRM51702F6M",
+	"images": {
+		"icon": "https://raw.githubusercontent.com/tauri-apps/tauri/dev/crates/tauri-cli/templates/plugin/__example-api/tauri-app/public/tauri.svg",
+		"banner": "file:///home/toby/fnf-manager/public/peopledontevensayblessyouanymoretheyjuststareatyoulikethis.png"
+	},
+	"authors": [
+		{
+			"name": "tpguy825",
+			"main": true,
+			"role": "did the thingy"
+		},
+		{
+			"name": "exampleperson",
+			"role": "basically nothing"
+		}
+	],
+	"updated": "2024-09-08T00:07:42.572Z"
+}

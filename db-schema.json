@@ -1,100 +1,76 @@
 {
-  "$ref": "#/definitions/DBSchema",
-  "definitions": {
-    "DBSchema": {
-      "type": "object",
-      "properties": {
-        "$schema": {
-          "type": "string"
-        },
-        "projects": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "properties": {
-              "name": {
-                "type": "string"
-              },
-              "description": {
-                "type": "string"
-              },
-              "subtitle": {
-                "type": "string"
-              },
-              "versions": {
-                "type": "array",
-                "items": {
-                  "type": "object",
-                  "properties": {
-                    "v": {
-                      "type": "string"
-                    },
-                    "download": {
-                      "type": "string",
-                      "format": "uri"
-                    },
-                    "changes": {
-                      "type": "string"
-                    },
-                    "modified": {
-                      "type": "string",
-                      "format": "date-time"
-                    }
-                  },
-                  "required": [
-                    "v",
-                    "download",
-                    "modified"
-                  ],
-                  "additionalProperties": false
-                }
-              },
-              "id": {
-                "type": "string",
-                "pattern": "^[0-9A-HJKMNP-TV-Z]{26}$"
-              },
-              "images": {
-                "type": "object",
-                "properties": {
-                  "icon": {
-                    "type": "string",
-                    "format": "uri"
-                  },
-                  "banner": {
-                    "type": "string",
-                    "format": "uri"
-                  }
-                },
-                "required": [
-                  "icon",
-                  "banner"
-                ],
-                "additionalProperties": false
-              }
-            },
-            "required": [
-              "name",
-              "description",
-              "subtitle",
-              "versions",
-              "id",
-              "images"
-            ],
-            "additionalProperties": false
-          }
-        },
-        "updated": {
-          "type": "string",
-          "format": "date-time"
-        }
-      },
-      "required": [
-        "projects",
-        "updated"
-      ],
-      "additionalProperties": false,
-      "description": "fnf-manager db schema"
-    }
-  },
-  "$schema": "http://json-schema.org/draft-07/schema#"
+	"$ref": "#/definitions/DBSchema",
+	"definitions": {
+		"DBSchema": {
+			"type": "object",
+			"properties": {
+				"$schema": {
+					"type": "string"
+				},
+				"projects": {
+					"type": "array",
+					"items": {
+						"type": "object",
+						"properties": {
+							"name": {
+								"type": "string"
+							},
+							"subtitle": {
+								"type": "string"
+							},
+							"id": {
+								"type": "string",
+								"pattern": "^[0-9A-HJKMNP-TV-Z]{26}$"
+							},
+							"images": {
+								"type": "object",
+								"properties": {
+									"icon": {
+										"type": "string",
+										"format": "uri"
+									},
+									"banner": {
+										"type": "string",
+										"format": "uri"
+									}
+								},
+								"required": ["icon", "banner"],
+								"additionalProperties": false
+							},
+							"authors": {
+								"type": "array",
+								"items": {
+									"type": "object",
+									"properties": {
+										"name": {
+											"type": "string"
+										},
+										"main": {
+											"type": "boolean",
+											"default": false
+										},
+										"role": {
+											"type": "string"
+										}
+									},
+									"required": ["name", "role"],
+									"additionalProperties": false
+								}
+							}
+						},
+						"required": ["name", "subtitle", "id", "images", "authors"],
+						"additionalProperties": false
+					}
+				},
+				"updated": {
+					"type": "string",
+					"format": "date-time"
+				}
+			},
+			"required": ["projects", "updated"],
+			"additionalProperties": false,
+			"description": "fnf-manager db schema"
+		}
+	},
+	"$schema": "http://json-schema.org/draft-07/schema#"
 }
