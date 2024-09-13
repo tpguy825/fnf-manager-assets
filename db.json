@@ -2,24 +2,177 @@
 	"$schema": "./db-schema.json",
 	"projects": [
 		{
-			"name": "Example",
-			"subtitle": "hehe im a little text",
-			"id": "01BXAVRG61YJ5YSBRM51702F6M",
-			"images": {
-				"icon": "https://raw.githubusercontent.com/tauri-apps/tauri/dev/crates/tauri-cli/templates/plugin/__example-api/tauri-app/public/tauri.svg",
-				"banner": "https://raw.githubusercontent.com/tpguy825/fnf-manager/main/public/peopledontevensayblessyouanymoretheyjuststareatyoulikethis.png"
-			},
+			"platforms": "windows",
+			"name": "Vs Impostor: Black's Betrayal (BLACKOUT UPDATE!)",
+			"id": "01J7PTN4EEGR32JWN9P4FF9FCZ",
+			"subtitle": "Sus.",
 			"authors": [
 				{
-					"name": "tpguy825",
-					"main": true,
-					"role": "did the thingy"
+					"name": "HersheyDaFluff",
+					"role": "Owner/Director, Songs, Charter",
+					"main": true
 				},
 				{
-					"name": "exampleperson",
-					"role": "basically nothing"
+					"name": "Scissor",
+					"role": "coding, charter, assets thing",
+					"main": true
+				},
+				{
+					"name": "Quik",
+					"role": "Main Musician, Artist",
+					"main": true
+				},
+				{
+					"name": "ToastBee",
+					"role": "Main Artist, Dialog, \"Coder\", \"Musician\" \"Charting\"",
+					"main": true
+				},
+				{
+					"name": "Dzub",
+					"role": "charter, playtester"
+				},
+				{
+					"name": "SUS_PAIN",
+					"role": "Artist"
+				},
+				{
+					"name": "Anonymations",
+					"role": "Artist"
+				},
+				{
+					"name": "etesechlover666",
+					"role": "Artist"
+				},
+				{
+					"name": "MysicalEX",
+					"role": "Artist"
+				},
+				{
+					"name": "Ice Cream Sherry",
+					"role": "Chart Heler"
+				},
+				{
+					"name": "Mono",
+					"role": "Playtester"
+				},
+				{
+					"name": "ferro",
+					"role": "original background artist"
+				},
+				{
+					"name": "catmania",
+					"role": "Charter + Playtester"
+				},
+				{
+					"name": "shrimpyy",
+					"role": "Musician + gave me all the among us sounds lmao"
+				},
+				{
+					"name": "Clowfoe",
+					"role": "Co-Owner, Programmer"
+				},
+				{
+					"name": "Ghost1812798",
+					"role": "Programmer"
+				},
+				{
+					"name": "Fabs_",
+					"role": "Programmer, Artist"
+				},
+				{
+					"name": "ItJulien",
+					"role": "Artist/Animator"
+				},
+				{
+					"name": "Adam McHummus",
+					"role": "Composor"
+				},
+				{
+					"name": "Keoni",
+					"role": "Composor"
+				},
+				{
+					"name": "Rareblin",
+					"role": "Composor"
+				},
+				{
+					"name": "Squidboi84",
+					"role": "Artist"
+				},
+				{
+					"name": "Ghost1993046",
+					"role": "Co-Owner"
+				},
+				{
+					"name": "Postman",
+					"role": "Artist"
+				},
+				{
+					"name": "Inky",
+					"role": "Artist/Animator"
+				},
+				{
+					"name": "Pietro_Ultra",
+					"role": "Co-Owner, Artist"
+				},
+				{
+					"name": "Orbyy",
+					"role": "Artist"
+				},
+				{
+					"name": "phoenix...",
+					"role": "Artist, Secret Song"
+				},
+				{
+					"name": "Banbuds",
+					"role": "Director, Artist, Animator, Voice Acting"
+				},
+				{
+					"name": "Adam McHummus",
+					"role": "Composer"
+				},
+				{
+					"name": "TheInnuendo",
+					"role": "Composer"
+				},
+				{
+					"name": "Nimbus Cumulus",
+					"role": "Composer"
+				},
+				{
+					"name": "Uncle Joel",
+					"role": "Composer"
+				},
+				{
+					"name": "ScorchVx",
+					"role": "Artist"
+				},
+				{
+					"name": "typic",
+					"role": "Artist"
+				},
+				{
+					"name": "Mr_NoL",
+					"role": "Vocal edits"
+				},
+				{
+					"name": "BonesTheSkelebunny01",
+					"role": "Artist"
+				},
+				{
+					"name": "Shadow Mario",
+					"role": "Psych Engine"
+				},
+				{
+					"name": "bbpanzu",
+					"role": "got the 4th character code from holiday mod (i can't code lmao)- scissor"
 				}
-			]
+			],
+			"images": {
+				"banner": "https://images.gamebanana.com/img/ss/mods100-90_6276d0e9b26dd.jpg",
+				"icon": "https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"
+			},
+			"url": "https://gamebanana.com/mods/357998"
 		}
 	],
 	"updated": "2024-09-08T00:07:42.572Z"

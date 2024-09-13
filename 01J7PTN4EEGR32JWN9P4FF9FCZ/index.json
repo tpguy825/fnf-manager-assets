@@ -1,0 +1,189 @@
+{
+  "name": "Vs Impostor: Black's Betrayal (BLACKOUT UPDATE!)",
+  "id": "01J7PTN4EEGR32JWN9P4FF9FCZ",
+  "url": "https://gamebanana.com/mods/357998",
+  "subtitle": "Sus.",
+  "description": "Includes everything from v1 + BLACKOUT REMIXES AND FREEPLAY SONGS<br><br>for black's songs,<br>you do die if you miss once\nbut you can turn it off by&nbsp;<br>pressing <b>1</b> (health drain) or&nbsp;<br><b>2</b> (normal) and&nbsp;<br>turn them back on with <b>3</b>.\n(mid-song btw)&nbsp;<br><br>it'll decrease your score but at least you'll have fun for those non-fc players lol<br><br><b>SET YOUR GAME FPS TO 60 OR ELSE IT'LL CRASH DUE TO A BUG IN THE ENGINE!</b><br><pre class=\"SelectedElement\"><span class=\"RedColor\">*DO NOT PLAY IF YOU'RE EPILETIC THEY ARE A TON OF LIGHTS*</span></pre>",
+  "images": {
+    "banner": "https://images.gamebanana.com/img/ss/mods100-90_6276d0e9b26dd.jpg",
+    "icon": "https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"
+  },
+  "updated": "1970-01-20T02:52:59.440Z",
+  "platform": "windows",
+  "versions": [
+    {
+      "v": "1.5",
+      "win": {
+        "url": "https://gamebanana.com/dl/795447",
+        "hash": "36901c3fc106e09136a065ca9456fb7a36fc5883faf77f4ecf65b05fb4b1128f67a677dc15c0dec33883f604020777e30365f44724df153bfa56af468e38ebfd",
+        "filename": "vsibbv15.zip"
+      },
+      "changes": "",
+      "platform": "windows",
+      "modified": "2024-09-13T22:58:14.366Z",
+      "default": true
+    }
+  ],
+  "authors": [
+    {
+      "name": "HersheyDaFluff",
+      "role": "Owner/Director, Songs, Charter",
+      "main": true
+    },
+    {
+      "name": "Scissor",
+      "role": "coding, charter, assets thing",
+      "main": true
+    },
+    {
+      "name": "Quik",
+      "role": "Main Musician, Artist",
+      "main": true
+    },
+    {
+      "name": "ToastBee",
+      "role": "Main Artist, Dialog, \"Coder\", \"Musician\" \"Charting\"",
+      "main": true
+    },
+    {
+      "name": "Dzub",
+      "role": "charter, playtester"
+    },
+    {
+      "name": "SUS_PAIN",
+      "role": "Artist"
+    },
+    {
+      "name": "Anonymations",
+      "role": "Artist"
+    },
+    {
+      "name": "etesechlover666",
+      "role": "Artist"
+    },
+    {
+      "name": "MysicalEX",
+      "role": "Artist"
+    },
+    {
+      "name": "Ice Cream Sherry",
+      "role": "Chart Heler"
+    },
+    {
+      "name": "Mono",
+      "role": "Playtester"
+    },
+    {
+      "name": "ferro",
+      "role": "original background artist"
+    },
+    {
+      "name": "catmania",
+      "role": "Charter + Playtester"
+    },
+    {
+      "name": "shrimpyy",
+      "role": "Musician + gave me all the among us sounds lmao"
+    },
+    {
+      "name": "Clowfoe",
+      "role": "Co-Owner, Programmer"
+    },
+    {
+      "name": "Ghost1812798",
+      "role": "Programmer"
+    },
+    {
+      "name": "Fabs_",
+      "role": "Programmer, Artist"
+    },
+    {
+      "name": "ItJulien",
+      "role": "Artist/Animator"
+    },
+    {
+      "name": "Adam McHummus",
+      "role": "Composor"
+    },
+    {
+      "name": "Keoni",
+      "role": "Composor"
+    },
+    {
+      "name": "Rareblin",
+      "role": "Composor"
+    },
+    {
+      "name": "Squidboi84",
+      "role": "Artist"
+    },
+    {
+      "name": "Ghost1993046",
+      "role": "Co-Owner"
+    },
+    {
+      "name": "Postman",
+      "role": "Artist"
+    },
+    {
+      "name": "Inky",
+      "role": "Artist/Animator"
+    },
+    {
+      "name": "Pietro_Ultra",
+      "role": "Co-Owner, Artist"
+    },
+    {
+      "name": "Orbyy",
+      "role": "Artist"
+    },
+    {
+      "name": "phoenix...",
+      "role": "Artist, Secret Song"
+    },
+    {
+      "name": "Banbuds",
+      "role": "Director, Artist, Animator, Voice Acting"
+    },
+    {
+      "name": "Adam McHummus",
+      "role": "Composer"
+    },
+    {
+      "name": "TheInnuendo",
+      "role": "Composer"
+    },
+    {
+      "name": "Nimbus Cumulus",
+      "role": "Composer"
+    },
+    {
+      "name": "Uncle Joel",
+      "role": "Composer"
+    },
+    {
+      "name": "ScorchVx",
+      "role": "Artist"
+    },
+    {
+      "name": "typic",
+      "role": "Artist"
+    },
+    {
+      "name": "Mr_NoL",
+      "role": "Vocal edits"
+    },
+    {
+      "name": "BonesTheSkelebunny01",
+      "role": "Artist"
+    },
+    {
+      "name": "Shadow Mario",
+      "role": "Psych Engine"
+    },
+    {
+      "name": "bbpanzu",
+      "role": "got the 4th character code from holiday mod (i can't code lmao)- scissor"
+    }
+  ]
+}
